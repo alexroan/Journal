@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for i in *.md; do 
+    echo;
+    echo;
+    echo -----------------------------------------------;
+    echo Date : "${i%.*}";cat "$i"; done | less +G
