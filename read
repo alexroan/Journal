@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in *.md; do 
+for i in *-*.md; do 
     echo;
     echo;
     echo -----------------------------------------------;
