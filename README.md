@@ -4,7 +4,7 @@
 
 ### Start your own
 
-Fork this repository and clone repo.
+Fork this repository and clone.
 
 ### Submit an entry
 
