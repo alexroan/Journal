@@ -11,7 +11,7 @@ Fork this repository and clone.
 Submit an entry like this:
 
 ```
-./entry "This is jour journal..."
+./entry "This is your journal..."
 ```
 
 The entry is saved to a date-stamped markdown file, preceded with the time of entry inside the file.
